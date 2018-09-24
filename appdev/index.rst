@@ -149,17 +149,6 @@ It can still be installed in Ubuntu 16.04, but issues are expected.
     sudo apt install ubuntu-sdk
     sudo reboot # or logout/login
 
-System Software
----------------
-
-Working on system components
-
-.. toctree::
-    :maxdepth: 1
-    :name: toc-system-software
-
-    system-software
-
 Web applications
 ----------------
 
